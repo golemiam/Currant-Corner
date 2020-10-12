@@ -53,4 +53,5 @@
 .accordion {
   width: 80%;
   clear: both;
+  float: right;
 }
