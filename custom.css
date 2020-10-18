@@ -57,3 +57,7 @@
   float: right;
   margin-left: 160px;
 }
+
+.navbar navbar-expand-lg navbar-light bg-light {
+ margin-left: 160px; 
+}
